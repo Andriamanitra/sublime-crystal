@@ -2,5 +2,9 @@
   {
     "caption": "Crystal: format",
     "command": "crystal_format"
+  },
+  {
+    "caption": "Crystal: Show context",
+    "command": "crystal_show_context"
   }
 ]
